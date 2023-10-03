@@ -1,0 +1,24 @@
+.auction-one {
+  top: 40%;
+  left: 30%;
+}
+.card {
+  background: linear-gradient(138deg, #f3f6f8 -5.14%, #e8e6ee 103.48%);
+  box-shadow: -11px 10px 45px 0px #e4e4e4;
+  width: 275px;
+  height: 357px;
+}
+.parent {
+  font-size: 12px;
+}
+.child {
+  font-size: 10px;
+}
+.card-title {
+  font-size: 17px;
+}
+.card-two {
+  border-radius: 10px;
+  background: #f3f6f8;
+  box-shadow: -11px 10px 20px 0px #dedede;
+}

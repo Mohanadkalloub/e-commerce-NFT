@@ -1,0 +1,17 @@
+.line {
+  background: #fff;
+  height: 2px;
+}
+.nav-item {
+  margin-right: 120px;
+}
+.nav-item a {
+  text-decoration: none;
+  padding-right: 15px;
+  color: #000;
+  font-size: 15px;
+}
+/* .header,
+.navbar {
+  background: linear-gradient(180deg, #e5f7ff 0%, rgba(255, 255, 255, 0) 100%);
+} */

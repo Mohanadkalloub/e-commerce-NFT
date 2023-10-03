@@ -1,0 +1,21 @@
+.title {
+  color: #fa00ff;
+  font-size: 25px;
+}
+.title-page {
+  background: linear-gradient(
+    94deg,
+    #2260ff 5.86%,
+    #862be1 51.33%,
+    #fa00ff 90.93%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 55px;
+  color: #2260ff, #862be1, #fa00ff;
+}
+.lorem-page {
+  color: #000000;
+  font-size: 20px;
+}

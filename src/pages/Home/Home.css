@@ -1,0 +1,31 @@
+.discover {
+  background: linear-gradient(
+    94deg,
+    #2260ff 5.86%,
+    #862be1 51.33%,
+    #fa00ff 90.93%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+}
+.lorem {
+  font-size: 20px;
+  color: #000;
+}
+.wallet-one {
+  background: #5138ee;
+}
+.wallet-two {
+  border-color: #5138ee;
+  color: #5138ee;
+}
+.box img {
+  margin-left: 35px;
+}
+.box {
+  border-radius: 10px;
+  background: #f3f6f8;
+  box-shadow: -11px 10px 20px 0px #dedede;
+}

@@ -1,0 +1,16 @@
+.auth-name {
+  color: #5138ee;
+  font-size: 13px;
+}
+.auth-item {
+  color: #2e3a4b;
+}
+.auth-number {
+  color: #2e3a4b;
+}
+.auth-box {
+  border-radius: 10px;
+  background: #f3f6f8;
+  box-shadow: -11px 10px 20px 0px #dedede;
+  width: 270px;
+}
