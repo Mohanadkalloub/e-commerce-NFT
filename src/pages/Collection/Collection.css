@@ -1,0 +1,20 @@
+.section-card {
+  border-radius: 10px;
+  background: linear-gradient(158deg, #ebf6ff 1.61%, #f2eeff 97.18%);
+  box-shadow: -11px 10px 45px 0px #e4e4e4;
+  width: 370px;
+  height: 580px;
+}
+.btn-left {
+  border-radius: 30px;
+  background: #e0f3ff;
+  border: none;
+}
+.box {
+  border-radius: 10px;
+  background: #f3f6f8;
+  box-shadow: -11px 10px 20px 0px #dedede;
+}
+.new-section {
+  margin-top: 100px;
+}

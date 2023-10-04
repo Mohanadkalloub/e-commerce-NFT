@@ -25,7 +25,46 @@ import auth5 from "./auth5.png";
 import auth6 from "./auth6.png";
 import auth7 from "./auth7.png";
 import auth8 from "./auth8.png";
-
+import collection1 from "./collection1.png";
+import collection2 from "./collection2.png";
+import collection3 from "./collection3.png";
+import collection4 from "./collection4.png";
+import collection5 from "./collection5.png";
+import collection6 from "./collection6.png";
+import boxCollectionTwo from "./boxCollectionTwo.png";
+import boxCollectionOne from "./boxCollectionOne.png";
+import boxCollectionThree from "./boxCollectionThree.png";
+import boxCollectionFour from "./boxCollectionFour.png";
+import boxCollectionEndOne from "./boxCollectionEndOne.png";
+import boxCollectionEndTwo from "./boxCollectionEndTwo.png";
+import vector from "./Vector.png";
+import BoxTwoOne from "./BoxTwoOne.png";
+import BoxTwoTwo from "./BoxTwoTwo.png";
+import BoxTwoThree from "./BoxTwoThree.png";
+import BoxTwoFour from "./BoxTwoFour.png";
+import BoxThreeOne from "./BoxThreeOne.png";
+import BoxThreeTwo from "./BoxThreeTwo.png";
+import BoxThreeThree from "./BoxThreeThree.png";
+import BoxThreeFour from "./BoxThreeFour.png";
+import BoxFourOne from "./BoxFourOne.png";
+import BoxFourTwo from "./BoxFourTwo.png";
+import BoxFourThree from "./BoxFourThree.png";
+import BoxFourFour from "./BoxFourFour.png";
+import BoxFiveOne from "./BoxFiveOne.png";
+import BoxFiveTwo from "./BoxFiveTwo.png";
+import BoxFiveThree from "./BoxFiveThree.png";
+import BoxFiveFour from "./BoxFiveFour.png";
+import BoxSexOne from "./BoxSexOne.png";
+import BoxSexTwo from "./BoxSexTwo.png";
+import BoxSexThree from "./BoxSexThree.png";
+import BoxSexFour from "./BoxSexFour.png";
+import CardOne from "./CardOne.png";
+import CardTwo from "./CardTwo.png";
+import CardThree from "./CardThree.png";
+import CardFour from "./CardFour.png";
+import RecTwo from "./RecTwo.png";
+import RecThree from "./RecThree.png";
+import RecFour from "./RecFour.png";
 export {
   Logo,
   Banar,
@@ -54,4 +93,44 @@ export {
   auth6,
   auth7,
   auth8,
+  collection1,
+  collection2,
+  collection3,
+  collection4,
+  collection5,
+  collection6,
+  boxCollectionEndOne,
+  boxCollectionEndTwo,
+  boxCollectionOne,
+  boxCollectionTwo,
+  boxCollectionThree,
+  boxCollectionFour,
+  vector,
+  BoxTwoOne,
+  BoxTwoTwo,
+  BoxTwoThree,
+  BoxTwoFour,
+  BoxThreeOne,
+  BoxThreeTwo,
+  BoxThreeThree,
+  BoxThreeFour,
+  BoxFourOne,
+  BoxFourTwo,
+  BoxFourThree,
+  BoxFourFour,
+  BoxFiveOne,
+  BoxFiveTwo,
+  BoxFiveThree,
+  BoxFiveFour,
+  BoxSexOne,
+  BoxSexTwo,
+  BoxSexThree,
+  BoxSexFour,
+  CardOne,
+  CardTwo,
+  CardThree,
+  CardFour,
+  RecTwo,
+  RecThree,
+  RecFour,
 };

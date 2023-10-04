@@ -4,3 +4,19 @@
   box-shadow: 2px -3px 4px 0px #fff;
   border: none;
 }
+.need-help-title,
+.mark-place-title,
+.company-title {
+  color: #000;
+  font-size: 30px;
+}
+.need-help,
+.mark-place,
+.company {
+  color: #2e3a4b;
+  font-size: 20px;
+}
+.logo-desc {
+  font-size: 20px;
+  color: #000;
+}

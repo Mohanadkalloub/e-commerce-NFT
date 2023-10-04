@@ -43,10 +43,10 @@ const Footer = () => {
   return (
     <div className="row mt-5">
       <div className="col-lg-3 col-md-3 col-sm-12">
-        <div className="navbar-brand">
+        <div className="navbar-brand mb-3">
           <img src={Logo} alt="" />
         </div>
-        <p>
+        <p className="logo-desc">
           Various versions have evolved over the years sometimes by acciden
           sometimes on purpose injec
         </p>
@@ -61,8 +61,8 @@ const Footer = () => {
           <FontAwesomeIcon icon={faPinterestP} className="mx-3" />
         </div>
       </div>
-      <div className="col-lg-3 col-md-3 col-sm-12">
-        <h5>Company</h5>
+      <div className="col-lg-3 col-md-3 col-sm-12 company">
+        <h5 className="company-title">Company</h5>
         {listFooter.map((item) => (
           <li className="nav-item list-group">
             <NavLink
@@ -74,14 +74,14 @@ const Footer = () => {
           </li>
         ))}
       </div>
-      <div className="col-lg-3 col-md-3 col-sm-12">
-        <h5>Marketplace</h5>
+      <div className="col-lg-3 col-md-3 col-sm-12 mark-place">
+        <h5 className="mark-place-title">Marketplace</h5>
         {MarkPlace.map((item) => (
           <li className="list-group">{item.display}</li>
         ))}
       </div>
-      <div className="col-lg-3 col-md-3 col-sm-12">
-        <h5>Need Help ?</h5>
+      <div className="col-lg-3 col-md-3 col-sm-12 need-help">
+        <h5 className="need-help-title">Need Help ?</h5>
         {NeedHelp.map((item) => (
           <li className="list-group">{item.display}</li>
         ))}
