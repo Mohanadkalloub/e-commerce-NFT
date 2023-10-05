@@ -50,11 +50,13 @@ const Footer = () => {
           Various versions have evolved over the years sometimes by acciden
           sometimes on purpose injec
         </p>
-        <button className="parent-btn d-flex align-items-center justify-content-between mb-3">
-          Enter your mail
-          <button className="mx-3 btn sub-btn">SUBSCRIBE</button>
+        <button className="btn btn-white btn-outline-dark mx-1">
+          enter your mail
         </button>
-        <div className="icons">
+        <button className="btn btn-white btn-outline-dark mx-1">
+          SUBSCRIBE
+        </button>
+        <div className="icons mt-3">
           <FontAwesomeIcon icon={faBehance} className="mx-3" />
           <FontAwesomeIcon icon={faVimeoV} className="mx-3" />
           <FontAwesomeIcon icon={faWikipediaW} className="mx-3" />
@@ -87,7 +89,7 @@ const Footer = () => {
         ))}
       </div>
       <div className="d-flex align-items-center justify-content-between line"></div>
-      <div className="text-center mt-3 fs-5">
+      <div className="text-center mt-3 fs-5 p-4">
         All right reserved by Mohanad Kalloub
       </div>
     </div>

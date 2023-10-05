@@ -1,0 +1,30 @@
+/* .team-card {
+  border-radius: 270px;
+  background: #f3f6f8;
+  box-shadow: 5px -5px 10px 0px rgba(255, 255, 255, 0.7);
+  width: 270px;
+  height: 270px;
+} */
+.img-team-card {
+  width: 135px;
+  height: 221px;
+  left: 5%;
+}
+.team-card-body {
+  border-radius: 270px;
+  background: #f3f6f8;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  width: 270px;
+  height: 270px;
+}
+.icons-social {
+  top: 65%;
+}
+.team-card-content {
+  top: 70%;
+}
+.icons-social {
+  border-radius: 270px;
+  background: #f3f6f8;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+}

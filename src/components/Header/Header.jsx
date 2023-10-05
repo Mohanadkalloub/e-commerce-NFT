@@ -49,13 +49,13 @@ const Header = () => {
     <div className="container">
       <div className="header d-flex aling-items-center justify-content-between">
         <div className="div">
-          <div className="icons-header">
+          <div className="icons-header mt-2">
             <FontAwesomeIcon icon={faFacebookF} className="mx-2" />
             <FontAwesomeIcon icon={faLinkedinIn} className="mx-2" />
             <FontAwesomeIcon icon={faInstagram} className="mx-2" />
           </div>
         </div>
-        <div className="div">
+        <div className="div mt-2">
           <button className="btn">
             <span>EN</span>
             <FontAwesomeIcon icon={faChevronDown} />

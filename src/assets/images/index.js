@@ -65,6 +65,33 @@ import CardFour from "./CardFour.png";
 import RecTwo from "./RecTwo.png";
 import RecThree from "./RecThree.png";
 import RecFour from "./RecFour.png";
+import CreatorCardOneImg from "./creatorCardOneImg.png";
+import CreatorCardOne from "./creatorCardOne.png";
+import CreatorCardTwo from "./CreatorCardTwo.png";
+import CreatorCardThree from "./CreatorCardThree.png";
+import CreatorCardFour from "./CreatorCardFour.png";
+import CreatorCardFive from "./CreatorCardFive.png";
+import CreatorCardSex from "./CreatorCardSex.png";
+import CreatorCardSaven from "./CreatorCardSaven.png";
+import CreatorCardEight from "./CreatorCardEight.png";
+import CreatorCardTwoImg from "./CreatorCardTwoImg.png";
+import CreatorCardThreeImg from "./CreatorCardThreeImg.png";
+import CreatorCardFourImg from "./CreatorCardEightImg.png";
+import CreatorCardFiveImg from "./CreatorCardFiveImg.png";
+import CreatorCardSexImg from "./CreatorCardSexImg.png";
+import CreatorCardSavenImg from "./CreatorCardThreeImg.png";
+import CreatorCardEightImg from "./CreatorCardEightImg.png";
+import teamOne from "./teamOne.png";
+import teamTwo from "./teamTwo.png";
+import teamThree from "./teamThree.png";
+import teamFour from "./teamFour.png";
+import teamFive from "./teamFive.png";
+import teamSex from "./teamSex.png";
+import teamSaven from "./teamSaven.png";
+import teamEight from "./teamEight.png";
+import blogOne from "./blogOne.png";
+import blogTwo from "./blogTwo.png";
+import blogThree from "./blogThree.png";
 export {
   Logo,
   Banar,
@@ -133,4 +160,31 @@ export {
   RecTwo,
   RecThree,
   RecFour,
+  CreatorCardOneImg,
+  CreatorCardOne,
+  CreatorCardTwo,
+  CreatorCardThree,
+  CreatorCardFour,
+  CreatorCardFive,
+  CreatorCardSex,
+  CreatorCardSaven,
+  CreatorCardEight,
+  CreatorCardTwoImg,
+  CreatorCardThreeImg,
+  CreatorCardFourImg,
+  CreatorCardFiveImg,
+  CreatorCardSexImg,
+  CreatorCardSavenImg,
+  CreatorCardEightImg,
+  teamOne,
+  teamTwo,
+  teamThree,
+  teamFour,
+  teamFive,
+  teamSex,
+  teamSaven,
+  teamEight,
+  blogOne,
+  blogTwo,
+  blogThree,
 };

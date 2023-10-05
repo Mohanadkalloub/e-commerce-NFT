@@ -1,0 +1,9 @@
+.creator-card {
+  border-radius: 10px;
+  background: #f3f6f8;
+  box-shadow: -11px 10px 20px 0px #dedede;
+}
+.img-card {
+  top: -95px;
+  left: 90px;
+}
