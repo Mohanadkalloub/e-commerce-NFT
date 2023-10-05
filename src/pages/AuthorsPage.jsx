@@ -8,10 +8,7 @@ import {
   auth7,
   auth8,
 } from "../assets/images";
-import { PageContainer } from "../components";
-import Authors from "../components/Authors/Authors";
-import TitlePages from "../components/TitlePages/TitlePages";
-
+import { PageContainer, TitlePages, Authors } from "../components/index";
 const AuthorsPage = () => {
   return (
     <PageContainer>

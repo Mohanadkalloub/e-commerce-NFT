@@ -1,4 +1,3 @@
-import { PageContainer } from "../../components";
 import {
   Banar,
   BoxOneHome,
@@ -7,10 +6,10 @@ import {
   BoxFourHome,
 } from "../../assets/images/index";
 import "../Home/Home.css";
+import { PageContainer, HomeCard } from "../../components/index";
 const HomePage = () => {
   return (
     <PageContainer>
-      {/* <div className="container"> */}
       <div className="row">
         <div className="col-lg-6 col-md-6 col-sm-12 mt-5">
           <p className="discover mt-5">
@@ -34,27 +33,12 @@ const HomePage = () => {
           <img src={Banar} alt="" className="border rounded-3" />
         </div>
       </div>
-      <div className="row mt-5 d-flex align-items-center justify-content-between">
-        <div className="col-lg-2 col-md-3 col-sm-12 box mb-4">
-          {/* <div className="content-box"> */}
-          <img src={BoxOneHome} alt="" className="img-fluid" />
-          <p className="text-center">OpenSea</p>
-          {/* </div> */}
-        </div>
-        <div className="col-lg-2 col-md-3 col-sm-12 box mb-4">
-          <img src={BoxTwoHome} alt="" className="img-fluid" />
-          <p className="text-center">VeeFriends</p>
-        </div>
-        <div className="col-lg-2 col-md-3 col-sm-12 box mb-4">
-          <img src={BoxThreeHome} alt="" className="img-fluid" />
-          <p className="text-center">Decentraland</p>
-        </div>
-        <div className="col-lg-2 col-md-3 col-sm-12 box mb-4">
-          <img src={BoxFourHome} alt="" className="img-fluid" />
-          <p className="text-center">Polygon</p>
-        </div>
+      <div className="row mt-3">
+        <HomeCard img={BoxOneHome} title="OpenSea" />
+        <HomeCard img={BoxTwoHome} title="VeeFriends" />
+        <HomeCard img={BoxThreeHome} title="Decentraland" />
+        <HomeCard img={BoxFourHome} title="Polygon" />
       </div>
-      {/* </div> */}
     </PageContainer>
   );
 };

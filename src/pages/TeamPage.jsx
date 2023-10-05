@@ -8,10 +8,7 @@ import {
   teamThree,
   teamTwo,
 } from "../assets/images";
-import { PageContainer } from "../components";
-import TeamCard from "../components/Team/TeamCard";
-import TitlePages from "../components/TitlePages/TitlePages";
-
+import { TeamCard, TitlePages, PageContainer } from "../components/index";
 const TeamPage = () => {
   return (
     <PageContainer>

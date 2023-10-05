@@ -19,10 +19,7 @@ import {
   BoxTwoOne,
   BoxTwoThree,
   BoxTwoTwo,
-  CardFour,
   CardOne,
-  CardThree,
-  CardTwo,
   RecFour,
   RecThree,
   RecTwo,
@@ -40,11 +37,9 @@ import {
   collection6,
   vector,
 } from "../../assets/images";
-import { PageContainer } from "../../components";
 import "./Collection.css";
 
-import TitlePages from "../../components/TitlePages/TitlePages";
-
+import { PageContainer, TitlePages } from "../../components/index";
 const CollectionsPage = () => {
   return (
     <PageContainer>

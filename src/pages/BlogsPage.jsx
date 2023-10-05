@@ -1,7 +1,5 @@
-import { PageContainer } from "../components";
-import TitlePages from "../components/TitlePages/TitlePages";
 import { blogOne, blogThree, blogTwo } from "../assets/images/index";
-import BlogsCard from "../components/BlogsCard/BlogsCard";
+import { TitlePages, BlogsCard, PageContainer } from "../components/index";
 const BlogsPage = () => {
   return (
     <PageContainer>

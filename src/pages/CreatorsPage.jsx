@@ -15,10 +15,7 @@ import {
   CreatorCardTwo,
   CreatorCardTwoImg,
 } from "../assets/images";
-import { PageContainer } from "../components";
-import CreatorsCard from "../components/Creators/CreatorsCard";
-import TitlePages from "../components/TitlePages/TitlePages";
-
+import { PageContainer, CreatorsCard, TitlePages } from "../components/index";
 const CreatorsPage = (props) => {
   return (
     <PageContainer>

@@ -1,5 +1,3 @@
-import { PageContainer } from "../../components";
-import TitlePages from "../../components/TitlePages/TitlePages";
 import "./Auction.css";
 import {
   Auction1,
@@ -11,11 +9,14 @@ import {
   Auction8,
   Auction7,
 } from "../../assets/images/index";
-
-import AuctionBoxTwo from "../../components/AuctionBox/AuctionBoxTwo";
-import AuctionBoxOne from "../../components/AuctionBox/AuctionBoxOne";
-import ButtonWhite from "../../components/Buttons/ButtonWhite";
-import ButtonBlue from "../../components/Buttons/ButtonBlue";
+import {
+  AuctionBoxOne,
+  AuctionBoxTwo,
+  ButtonWhite,
+  ButtonBlue,
+  TitlePages,
+  PageContainer,
+} from "../../components/index";
 const AuctionPage = (props) => {
   return (
     <PageContainer>
@@ -43,7 +44,7 @@ const AuctionPage = (props) => {
         />
         <AuctionBoxTwo imgBox={Auction4} cardTitle="Team Atist Of Text" />
       </div>
-      <div className="row">
+      <div className="row mb-3">
         <AuctionBoxOne
           button={<ButtonWhite />}
           cardTitle="Robotic Body Art"

@@ -1,3 +1,14 @@
 export { default as PageContainer } from "./PageContainer/PageContainer";
 export { default as Header } from "./Header/Header";
 export { default as Footer } from "./Footer/Footer";
+export { default as TitlePages } from "./TitlePages/TitlePages";
+export { default as TeamCard } from "./Team/TeamCard";
+export { default as Icons } from "./Icons/Icons";
+export { default as HomeCard } from "./Home/HomeCard";
+export { default as CreatorsCard } from "./Creators/CreatorsCard";
+export { default as ButtonBlue } from "./Buttons/ButtonBlue";
+export { default as ButtonWhite } from "./Buttons/ButtonWhite";
+export { default as BlogsCard } from "./BlogsCard/BlogsCard";
+export { default as Authors } from "./Authors/Authors";
+export { default as AuctionBoxOne } from "./AuctionBox/AuctionBoxOne";
+export { default as AuctionBoxTwo } from "./AuctionBox/AuctionBoxTwo";
